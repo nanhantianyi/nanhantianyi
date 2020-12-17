@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+- QQ：317708276
+- Email：nanhantianyi@126.com
+- Blog：https://linuxer.top
+
+****
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=nanhantianyi&show_icons=true&theme=radical) 
+
 <!--
 **nanhantianyi/nanhantianyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
